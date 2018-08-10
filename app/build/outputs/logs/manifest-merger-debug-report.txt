@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aee97fdc91341c08bf1c4b473125f6dc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.paging:runtime:1.0.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.1.aar/5ab0f9e414aaf2d8a27f86809cfc3783/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/dbdf2a41f39033d5254d1788338f7df2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/fdfb44f85d6dc562e9aa0eec5b40e085/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/313de86603ea6ec21d5ff64c7c9ecedb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a9597cfd8cae6d263e51dc78b89e6c01/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/556dd1ea8b020230a7c13cc0f3c6e5c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6513ee6807be38d06228fc9da4f02c59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8a51916b8b764f644619b4f7806aa22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3a2eca0571a68989eeafde6ea9896e2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/07bcb757afcc7135e4d2dcf3ffa4ab74/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f04ca88446c509c692a94f2bd5ba1da3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/22077a8da7a329ea58b230d854f5c88e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/fad6a913b0d01a62241128f7b516b99f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7638799b9497437a69747d61dd974c1c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/27112185bdf0f470051de4b67091b494/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80f796451e9f2dae14e3415258e6adb1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04e5bddb761338c44ef9b7f6a9796292/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:19:11-60
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:21:5-35:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:27:9-40
+activity#paging.android.example.com.pagingsample.MainActivity
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:30:17-68
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aee97fdc91341c08bf1c4b473125f6dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/aee97fdc91341c08bf1c4b473125f6dc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.1.aar/5ab0f9e414aaf2d8a27f86809cfc3783/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.paging:runtime:1.0.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.0.1.aar/5ab0f9e414aaf2d8a27f86809cfc3783/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/dbdf2a41f39033d5254d1788338f7df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/dbdf2a41f39033d5254d1788338f7df2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/fdfb44f85d6dc562e9aa0eec5b40e085/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/fdfb44f85d6dc562e9aa0eec5b40e085/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/313de86603ea6ec21d5ff64c7c9ecedb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/313de86603ea6ec21d5ff64c7c9ecedb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a9597cfd8cae6d263e51dc78b89e6c01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a9597cfd8cae6d263e51dc78b89e6c01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/556dd1ea8b020230a7c13cc0f3c6e5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/556dd1ea8b020230a7c13cc0f3c6e5c1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6513ee6807be38d06228fc9da4f02c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6513ee6807be38d06228fc9da4f02c59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8a51916b8b764f644619b4f7806aa22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8a51916b8b764f644619b4f7806aa22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3a2eca0571a68989eeafde6ea9896e2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/3a2eca0571a68989eeafde6ea9896e2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/07bcb757afcc7135e4d2dcf3ffa4ab74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/07bcb757afcc7135e4d2dcf3ffa4ab74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f04ca88446c509c692a94f2bd5ba1da3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f04ca88446c509c692a94f2bd5ba1da3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/22077a8da7a329ea58b230d854f5c88e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.1.aar/22077a8da7a329ea58b230d854f5c88e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/fad6a913b0d01a62241128f7b516b99f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/db-1.1.1.aar/fad6a913b0d01a62241128f7b516b99f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7638799b9497437a69747d61dd974c1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7638799b9497437a69747d61dd974c1c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/27112185bdf0f470051de4b67091b494/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/27112185bdf0f470051de4b67091b494/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80f796451e9f2dae14e3415258e6adb1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/80f796451e9f2dae14e3415258e6adb1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04e5bddb761338c44ef9b7f6a9796292/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/04e5bddb761338c44ef9b7f6a9796292/AndroidManifest.xml:20:5-44
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+		ADDED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhijeet/git/POCs/achitecture components pocs/PagingSample/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/abhijeet/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/15fccdb47cafc88019bb52d865df7080/AndroidManifest.xml:24:13-83
